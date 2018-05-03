@@ -4,3 +4,4 @@ vive les MOOCS!
 ceci est une modification nécessitant un nouveau commit
 
 ceci est une modification faite directement sur github.com...
+... que je continue sur ma machine via VIM après avoir pullé. C'est pas mal git!
