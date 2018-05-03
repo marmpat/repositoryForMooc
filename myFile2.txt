@@ -1,3 +1,5 @@
 ceci est un deuxième fichier
 ceci est une deuxième ligne
 vive github !
+
+ceci est une modification en utilisant vim
