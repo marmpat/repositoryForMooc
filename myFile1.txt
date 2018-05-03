@@ -2,3 +2,5 @@ vive les MOOCS!
 
 
 ceci est une modification nécessitant un nouveau commit
+
+ceci est une modification faite directement sur github.com...
